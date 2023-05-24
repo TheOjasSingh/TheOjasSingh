@@ -23,3 +23,5 @@ I am ECE Grad student currently exploring the world of developement by self expl
 
 ## 🧑‍💻 Github Stats
 [![Ojas's github stats](https://github-readme-stats.vercel.app/api?username=TheOjasSingh)](https://github.com/TheOjasSingh/github-readme-stats)
+
+[![TheOjasSingh's GitHub | Stats](https://stats.quine.sh/TheOjasSingh/github?theme=dark)](https://quine.sh)
