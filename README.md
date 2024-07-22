@@ -9,8 +9,6 @@ I am a Grad student currently exploring the world of development by self-explora
 
 👯‍♀️ I'm looking to collaborate on Open Source and Web Development
 
-🤔 I'm looking for help with the Backend
-
 💬 Ask me about Coding Stuff
 
 ⚡️ Fun fact everyone is unique
