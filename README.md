@@ -1,20 +1,31 @@
-
 # Hi, I'm Ojas! 👋
-I am a Grad student currently exploring the world of development by self-exploration and self-learning.
 
+🎓 I'm a B.Tech graduate in Electronics & Communication Engineering, currently working as an **Associate Software Engineer at Capgemini**.
 
-👩‍💻 I'm currently working on Open Source Issues
+🚀 Passionate about DevOps, Cloud-Native Development, and AI, I love building scalable solutions and solving real-world problems.
 
-🧠 I'm currently learning Backend Development
+🔧 **What I'm Working On:**
+- Automating infrastructure using **Kubernetes**, **Docker**, and **Custom Resource Definitions (CRDs)**
+- Debugging, testing, and performance tuning cloud-native components
+- Contributing to **open-source projects** and backend tools
 
-👯‍♀️ I'm looking to collaborate on Open Source and Web Development
+🛠️ **Tech Stack:**
+- Languages: Python, Go, Bash, Shell Scripting
+- Tools & Frameworks: Node.js, Express.js, Docker, Kubernetes, Helm, REST APIs
+- Cloud & DB: SQL, MongoDB, Linux, GitHub, GitLab
 
-💬 Ask me about Coding Stuff
+🌱 Currently Learning:
+- Advanced **Backend Development**
+- Scalable Microservices & Cloud Architecture
 
-⚡️ Fun fact everyone is unique
+🤝 Looking to Collaborate On:
+- Open Source
+- Web Dev & DevOps Projects
 
+💬 Ask Me About:
+- Containers, APIs, Kubernetes, or anything backend/devops related!
 
-## 🔗 Where to Find Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-singh-1705)
+⚡ Fun Fact: I believe energy, curiosity, and code can change the world!
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Singh_Ojas)
+📫 Reach me at:  
+[LinkedIn](https://www.linkedin.com/in/ojas-singh-1705) | [GitHub](https://github.com/TheOjasSingh) | ojas856@gmail.com
