@@ -1,11 +1,11 @@
 # Hi, I'm Ojas! 👋
 
-🎓 I'm a B.Tech graduate in Electronics & Communication Engineering, currently working as an **Associate Software Engineer at Capgemini**.
+🎓 I'm a B.Tech graduate in Electronics & Communication Engineering, currently working as an **Associate II at Capgemini**.
 
 🚀 Passionate about DevOps, Cloud-Native Development, and AI, I love building scalable solutions and solving real-world problems.
 
 🔧 **What I'm Working On:**
-- Automating infrastructure using **Kubernetes**, **Docker**, and **Custom Resource Definitions (CRDs)**
+- Levraging AI tools for automating infrastructure using **Kubernetes**, **Docker**, and **Custom Resource Definitions (CRDs)**
 - Debugging, testing, and performance tuning cloud-native components
 - Contributing to **open-source projects** and backend tools
 
