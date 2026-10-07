@@ -1,6 +1,6 @@
 # Hi, I'm Ojas! 👋
 
-🎓 I'm a B.Tech graduate in Electronics & Communication Engineering, currently working as an **Associate II at Capgemini**.
+🎓 I'm a B.Tech graduate in Electronics & Communication Engineering, currently working as a **Site Reliability Engineer at Anaplan**.
 
 🚀 Passionate about DevOps, Cloud-Native Development, and AI, I love building scalable solutions and solving real-world problems.
 
@@ -11,7 +11,7 @@
 
 🛠️ **Tech Stack:**
 - Languages: Python, Go, Bash, Shell Scripting
-- Tools & Frameworks: Node.js, Express.js, Docker, Kubernetes, Helm, REST APIs
+- Tools & Frameworks: Node.js, Express.js, Docker, Kubernetes, Helm, REST APIs, OpenTelemetry, Argos, JFrog Artifactory, AWS, GCP
 - Cloud & DB: SQL, MongoDB, Linux, GitHub, GitLab
 
 🌱 Currently Learning:
@@ -20,7 +20,7 @@
 
 🤝 Looking to Collaborate On:
 - Open Source
-- Web Dev & DevOps Projects
+- Infrastructre & DevOps Projects
 
 💬 Ask Me About:
 - Containers, APIs, Kubernetes, or anything backend/devops related!
